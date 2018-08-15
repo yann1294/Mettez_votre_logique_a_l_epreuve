@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Mettez_votre_logique_a_l_epreuve:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Mettez_votre_logique_a_l_epreuve_jar</output-path>
+    <root id="archive" name="Mettez_votre_logique_a_l_epreuve.jar">
+      <element id="module-output" name="Mettez_votre_logique_a_l_epreuve" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-api-2.9.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/log4j-core-2.9.1.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

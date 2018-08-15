@@ -1,0 +1,2 @@
+Souhaitez-vous activer le mode d�veloppeur(O pour oui/N pour non) ? :
+ERROR StatusLogger No log4j2 configuration file found. Using default configuration: logging only errors to the console. Set system property 'log4j2.debug' to show Log4j2 internal initialization logging.
